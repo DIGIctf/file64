@@ -2,10 +2,11 @@
 file64 will convert any file to a base64 string and save that to a .file64 extension. You can give this .file64 out to others and instead of transferring the file directly to them, they can recreate that file instantly on their own machine. This was created for educational purposes for ethical hacking.
 
 This can be useful in the following situations:
--Spotty / terrible internet connection
--No internet connection at all
--Undetected
-
+<ul>
+<li>-Spotty / terrible internet connection</li>
+<li>-No internet connection at all</li>
+<li>-Undetected</li>
+</ul>
 ## Install
 ```
 git clone https://github.com/DIGIctf/file64.git
