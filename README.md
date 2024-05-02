@@ -8,9 +8,9 @@ This can be useful in the following situations:
 <li>Undetected</li>
 </ul>
 <h2>Install</h2>
-***
-  git clone https://github.com/DIGIctf/file64.git
-***
+<code>
+git clone https://github.com/DIGIctf/file64.git
+</code>
 
 
 <h3>Sender:</h3>
