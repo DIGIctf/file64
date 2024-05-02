@@ -3,14 +3,14 @@ file64 will convert any file to a base64 string and save that to a .file64 exten
 
 This can be useful in the following situations:
 <ul>
-<li>-Spotty / terrible internet connection</li>
-<li>-No internet connection at all</li>
-<li>-Undetected</li>
+<li>Spotty / terrible internet connection</li>
+<li>No internet connection at all</li>
+<li>Undetected</li>
 </ul>
 <h2>Install</h2>
-```
-git clone https://github.com/DIGIctf/file64.git
-```
+
+  git clone https://github.com/DIGIctf/file64.git
+
 
 
 <h3>Sender:</h3>
