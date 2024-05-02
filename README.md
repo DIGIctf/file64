@@ -13,12 +13,14 @@ This can be useful in the following situations:
 
 <h3>Sender:</h3>
 <code>$ python3 file64_encode.py <input_file></code>
+  
 <code>$ python3 file64_encode.py testing.zip</code>
   
 This will create the base64 encryption of the zip file and save it to a special format, testing.zip.file64. You can send this file to others or display on a website and others can create the file on their own system. 
 
 <h3>Receiver:</h3>
 <code>$ python3 file64_decode.py <file64_encoded_file></code>
+  
 <code>$ python3 file64_decode.py testing.zip.file64</code>
 
 This will create a file, testing.zip. 
